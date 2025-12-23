@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/MainPages/ZhiHuHuLoginPage",
+    "pages/MainPages/ZhiHuHuRegisterPage",
+    "pages/MainPages/ZhiHuHuHomePage",
+    "pages/MainPages/MinePage",
+    "pages/MainPages/SettingsPage",
+    "pages/MainPages/MessageDetailPage",
+    "pages/MainPages/CNKIPage",
+    "pages/MainPages/DetailPage",
+    "pages/MainPages/Index",
+    "pages/MainPages/CollectionPage",
+    "pages/MainPages/HistoryPage",
+    "pages/MainPages/FollowPage",
+    "pages/MainPages/PublishPage",
+    "pages/MainPages/ProfilePage",
+    "pages/MainPages/HelpPage"
+  ]
+}
